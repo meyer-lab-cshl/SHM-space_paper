@@ -10,6 +10,14 @@ Every figure has a separate notebook:
 - Main text figures (Main_)
 - Extended data figures (Extended-Data_)
 
+### Code
+
+Custom functions necessary for the figure making and conducted analyses are in the "scripts/functions" folder, with their documentation in "function-reference.html" file.
+
+Code for the Gillespie simulations on BCR sequences is in "scripts/gillespie-transition-matrix-claculation.py" file.
+
+All necessary packages and their versions are in the "environment.yml" file.
+
 
 ### Authors
 
